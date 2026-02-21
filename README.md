@@ -6,7 +6,7 @@ I’m a first‑year university student passionate about building automation sys
 I also have experience with object‑oriented programming in C++ and hold an Advanced SQL Programming certification from Coddy.tech, which strengthens my ability to work with structured data, databases, and front/back end development logic.
 
 _Technologies & Skills_
-Languages: Python, JavaScript, C++, Java, JavaScript, SQL, 
+Languages: Python, JavaScript, C++, Java, JavaScript, SQL, HTML, CSS
 
 _Tools:_ 
 Selenium, BeautifulSoup, Git, ChromeDriver
