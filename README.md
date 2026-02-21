@@ -1,6 +1,6 @@
 👋 Hi, I'm Atharva Ghodke. 
 
-Developer | Student Automation Engineer | Python & Web‑Scraping Enthusiast  
+Developer | Student Automation Engineer | C++ & OOP Enthusiast  
 I’m a first‑year university student passionate about building automation systems that solve real‑world problems, streamline workflows, and improve productivity. I enjoy working with Python, JavaScript, C++, Selenium, and data extraction. I focus on creating clean, user‑friendly CLI tools that feel practical and reliable.
 
 I also have experience with object‑oriented programming in C++ and hold an Advanced SQL Programming certification from Coddy.tech, which strengthens my ability to work with structured data, databases, and front/back end development logic.
