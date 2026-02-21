@@ -12,7 +12,7 @@ _Tools:_
 Selenium, BeautifulSoup, Git, ChromeDriver
 
 _Concepts:_
-Web scraping, Automation, Data processing, CLI Design, UX/UI Design
+Web Scraping, Automation, Data Processing, CLI Design, UX/UI Design, Object Oriented Programming (OOP)
 
 _Featured Project:_ 
 AIRANCE: Artifical Intelligence Research Assistant Navigator for Co-ops Engine 
