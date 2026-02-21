@@ -29,8 +29,6 @@ AIRANCE is an AI-powered Internship/Co-op Assistant that...
 👉 Check it out here:  
 https://github.com/atharva1567/AIRANCE-Artificial-Intelligence-Research-Assistant-Navigator-for-Co-ops-Engine
 
-Connect With Me! 
-www.linkedin.com/in/atharva-ghodke-949251382
+Connect With Me! www.linkedin.com/in/atharva-ghodke-949251382
 
-Email: 
-atharva.ghodke@gmail.com
+Email: atharva.ghodke@gmail.com
