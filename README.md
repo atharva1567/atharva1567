@@ -5,6 +5,8 @@ I’m a first‑year engineering student focused on building automation tools, w
 
 I work with Python, JavaScript, C++, Java, SQL, and I’m comfortable building both automation pipelines and front‑end experiences. I also hold an Advanced SQL Programming certification, strengthening my ability to work with structured data and backend logic.
 
+---
+
 **Technologies & Skills:**
 Languages: Python, JavaScript, C++, Java, JavaScript, SQL, HTML, HTML5, CSS
 
@@ -13,6 +15,8 @@ Selenium, BeautifulSoup, Git, ChromeDriver
 
 **Core Concepts:**
 Web Scraping, Automation, Data Processing, CLI Design, UX/UI Design, Object Oriented Programming (OOP)
+
+---
 
 **Featured Projects:**
 AIRANCE: Artifical Intelligence Research Assistant Navigator for Co-ops Engine 
@@ -30,6 +34,8 @@ A fast, browser‑based translator for Python, Java, C++, and JavaScript. Uses a
 
 **👉 Check It Out Here:**
 https://github.com/atharva1567/CodeLink
+
+---
 
 **👉 Connect With Me!** 
 
