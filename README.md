@@ -1,34 +1,35 @@
 👋 Hi, I'm Atharva Ghodke. 
 
 **Developer | Student Automation Engineer | C++ & OOP Enthusiast**
-I’m a first‑year university student passionate about building automation systems that solve real‑world problems, streamline workflows, and improve productivity. I enjoy working with Python, JavaScript, C++, Selenium, and data extraction. I focus on creating clean, user‑friendly CLI tools that feel practical and reliable.
+I’m a first‑year engineering student focused on building automation tools, workflow systems, and developer utilities that solve real problems. I enjoy designing clean, reliable interfaces — from CLI tools to browser‑based apps — and I’m especially interested in rule‑based engines, data extraction, and cross‑language tooling.
 
-I also have experience with object‑oriented programming in C++ and hold an Advanced SQL Programming certification from Coddy.tech, which strengthens my ability to work with structured data, databases, and front/back end development logic.
+I work with Python, JavaScript, C++, Java, SQL, and I’m comfortable building both automation pipelines and front‑end experiences. I also hold an Advanced SQL Programming certification, strengthening my ability to work with structured data and backend logic.
 
 **Technologies & Skills:**
-Languages: Python, JavaScript, C++, Java, JavaScript, SQL, HTML, CSS
+Languages: Python, JavaScript, C++, Java, JavaScript, SQL, HTML, HTML5, CSS
 
 **Tools:**
 Selenium, BeautifulSoup, Git, ChromeDriver
 
-**Concepts:**
+**Core Concepts:**
 Web Scraping, Automation, Data Processing, CLI Design, UX/UI Design, Object Oriented Programming (OOP)
 
-**Featured Project:**
+**Featured Projects:**
 AIRANCE: Artifical Intelligence Research Assistant Navigator for Co-ops Engine 
 
-AIRANCE is an AI-powered Internship/Co-op Assistant that...
-- Scrapes LinkedIn & Indeed
-- Displays jobs in a clean table
-- Lets users save multiple jobs
-- Tracks application status
-- Opens listings in browser/search engine
-- Uses persistent accounts & JSON storage
-- Provides a smooth, polished CLI experience
-- Generates a detailed report and sends to user's email consisting of jobs accustomed to user's profile
+Airance is an AI‑Powered Job Search Automation Engine which Automates internship and co‑op job discovery by scraping LinkedIn & Indeed, detecting new postings, tracking applications, and generating personalized job reports. Includes login automation, a new‑job detection engine, structured terminal UI, and HTML email alerts.
 
 **👉 Check It Out Here:**
 https://github.com/atharva1567/AIRANCE-Artificial-Intelligence-Research-Assistant-Navigator-for-Co-ops-Engine
+
+---
+
+CodeLink: Offline Code Translation Engine
+
+A fast, browser‑based translator for Python, Java, C++, and JavaScript. Uses a custom rule‑based engine (no APIs) to convert syntax instantly with a clean dual‑pane UI, built‑in samples, and deterministic transformations.
+
+**👉 Check It Out Here:**
+https://github.com/atharva1567/CodeLink
 
 **👉 Connect With Me!** 
 
