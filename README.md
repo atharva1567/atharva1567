@@ -1,7 +1,7 @@
 👋 Hi, I'm Atharva Ghodke. 
 
 **Developer | Student Automation Engineer | C++ & OOP Enthusiast**
-I’m a first‑year engineering student focused on building automation tools, workflow systems, and developer utilities that solve real problems. I enjoy designing clean, reliable interfaces — from CLI tools to browser‑based apps — and I’m especially interested in rule‑based engines, data extraction, and cross‑language tooling.
+I’m a first‑year Automation Systems Engineering (BTech) student focused on building automation tools, workflow systems, and developer utilities that solve real problems. I enjoy designing clean, reliable interfaces — from CLI tools to browser‑based apps — and I’m especially interested in rule‑based engines, data extraction, and cross‑language tooling.
 
 I work with Python, JavaScript, C++, Java, SQL, and I’m comfortable building both automation pipelines and front‑end experiences. I also hold an Advanced SQL Programming certification, strengthening my ability to work with structured data and backend logic.
 
