@@ -1,46 +1,139 @@
-👋 Hi, I'm Atharva Ghodke. 
+# 👋 Hi, I'm Atharva Ghodke
 
-**Developer | Student Automation Engineer | C++ & OOP Enthusiast**
-I’m a first‑year Automation Systems Engineering (BTech) student focused on building automation tools, workflow systems, and developer utilities that solve real problems. I enjoy designing clean, reliable interfaces — from CLI tools to browser‑based apps — and I’m especially interested in rule‑based engines, data extraction, and cross‑language tooling.
+## 🚀 Software Automation Engineer Co-op | Automation Systems Engineering Student | Software Developer
 
-I work with Python, JavaScript, C++, Java, SQL, and I’m comfortable building both automation pipelines and front‑end experiences. I also hold an Advanced SQL Programming certification, strengthening my ability to work with structured data and backend logic.
+I'm an **Automation Systems Engineering (BTech)** student at **McMaster University**, currently completing my first co-op term as a **Software Automation Engineer at BOXX Insurance**, a cyber insurance startup based in Toronto.
 
----
+I enjoy building software that solves real-world problems by combining **automation, artificial intelligence, computer vision, and intuitive user experiences**. My interests lie at the intersection of **software development, AI, workflow automation, and web development**, and I especially enjoy creating tools that make information more accessible and streamline repetitive processes.
 
-**Technologies & Skills:**
-Languages: Python, JavaScript, C++, Java, JavaScript, SQL, HTML, HTML5, CSS
+During my co-op, I work with **Python, Tesseract OCR, OpenCV, and JSON processing** to automate broker PDF extraction and transform unstructured insurance documents into structured, business-ready data.
 
-**Tools:**
-Selenium, BeautifulSoup, Git, ChromeDriver
-
-**Core Concepts:**
-Web Scraping, Automation, Data Processing, CLI Design, UX/UI Design, Object Oriented Programming (OOP)
+Outside of work and academics, I actively build personal projects and continuously explore new technologies to strengthen my technical and problem-solving skills.
 
 ---
 
-**Featured Projects:**
-AIRANCE: Artifical Intelligence Research Assistant Navigator for Co-ops Engine 
+# 💻 Technologies & Skills
 
-Airance is an AI‑Powered Job Search Automation Engine which Automates internship and co‑op job discovery by scraping LinkedIn & Indeed, detecting new postings, tracking applications, and generating personalized job reports. Includes login automation, a new‑job detection engine, structured terminal UI, and HTML email alerts.
+### **Languages**
 
-**👉 Check It Out Here:**
+- Python
+- JavaScript
+- C++
+- Java
+- SQL
+- HTML5
+- CSS3
+
+### **Tools & Technologies**
+
+- OpenCV
+- Tesseract OCR
+- Selenium
+- BeautifulSoup
+- Git
+- GitHub
+- ChromeDriver
+- JSON
+
+### **Core Concepts**
+
+- Software Automation
+- Web Development
+- UI/UX Design
+- Responsive Design
+- Computer Vision
+- Data Processing
+- Web Scraping
+- Workflow Automation
+- Object-Oriented Programming (OOP)
+- Database Fundamentals
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 AIRANCE – Artificial Intelligence Research Assistant Navigator for Co-ops Engine
+
+An AI-powered internship and co-op discovery platform designed to streamline the job search process for students.
+
+### Features
+
+- Automated LinkedIn & Indeed job scraping
+- Personalized job recommendations
+- Application tracking system
+- New job detection engine
+- Login automation
+- HTML email reports
+- Structured terminal interface
+
+🔗 **Repository:**
+
 https://github.com/atharva1567/AIRANCE-Artificial-Intelligence-Research-Assistant-Navigator-for-Co-ops-Engine
 
 ---
 
-CodeLink: Offline Code Translation Engine
+## 🔄 CodeLink – Offline Code Translation Engine
 
-A fast, browser‑based translator for Python, Java, C++, and JavaScript. Uses a custom rule‑based engine (no APIs) to convert syntax instantly with a clean dual‑pane UI, built‑in samples, and deterministic transformations.
+A browser-based code translator that converts code between Python, Java, C++, and JavaScript using a custom rule-based engine without external APIs.
 
-**👉 Check It Out Here:**
+### Features
+
+- Instant syntax conversion
+- Dual-pane interface
+- Built-in examples
+- Deterministic transformations
+- Offline functionality
+
+🔗 **Repository:**
+
 https://github.com/atharva1567/CodeLink
 
 ---
 
-**👉 Connect With Me!** 
+## 🌐 Personal Portfolio Website
 
-**Linkedin:**
+A responsive portfolio website designed to showcase my projects, technical skills, work experience, and professional journey.
+
+### Features
+
+- Responsive UI/UX design
+- Interactive animations
+- Project showcase carousel
+- Professional branding
+- Modern web design principles
+
+🔗 **Portfolio Website:**
+
+[Insert Portfolio Link]
+
+---
+
+# 🏆 Leadership & Involvement
+
+- 💼 Software Automation Engineer Co-op @ BOXX Insurance
+- ✈️ Flight Sergeant – 856 Pickering Royal Canadian Air Cadets
+- 🥇 2025 Kelly Cup Championship Gold Medalist (Mock Trial)
+- 📚 Kumon Instructor & Operations Coordinator
+- 🌎 Model United Nations Secretary & Cluster Leader
+
+---
+
+# 📫 Connect With Me
+
+### 🔗 LinkedIn
+
 www.linkedin.com/in/atharva-ghodke-949251382
 
-**Email:**
+### 🌐 Portfolio Website
+
+[Insert Portfolio Link]
+
+### 📧 Email
+
 atharva.ghodke@gmail.com
+
+---
+
+## 🎯 Current Focus
+
+Building software that combines **automation, AI, computer vision, and user-focused design** to solve real-world problems.
