@@ -44,24 +44,6 @@ https://github.com/atharva1567/AIRANCE-Artificial-Intelligence-Research-Assistan
 
 ---
 
-## 🔄 CodeLink – Offline Code Translation Engine
-
-A browser-based code translator that converts code between Python, Java, C++, and JavaScript using a custom rule-based engine without external APIs.
-
-### Features
-
-- Instant syntax conversion
-- Dual-pane interface
-- Built-in examples
-- Deterministic transformations
-- Offline functionality
-
-🔗 **Repository:**
-
-https://github.com/atharva1567/CodeLink
-
----
-
 ## 🌐 Personal Portfolio Website
 
 A responsive portfolio website designed to showcase my projects, technical skills, work experience, and professional journey.
@@ -76,17 +58,7 @@ A responsive portfolio website designed to showcase my projects, technical skill
 
 🔗 **Portfolio Website:**
 
-[Insert Portfolio Link]
-
----
-
-# 🏆 Leadership & Involvement
-
-- 💼 Software Automation Engineer Co-op @ BOXX Insurance
-- ✈️ Flight Sergeant – 856 Pickering Royal Canadian Air Cadets
-- 🥇 2025 Kelly Cup Championship Gold Medalist (Mock Trial)
-- 📚 Kumon Instructor & Operations Coordinator
-- 🌎 Model United Nations Secretary & Cluster Leader
+https://atharva-g-website.vercel.app/
 
 ---
 
@@ -98,14 +70,8 @@ www.linkedin.com/in/atharva-ghodke-949251382
 
 ### 🌐 Portfolio Website
 
-[Insert Portfolio Link]
+https://atharva-g-website.vercel.app/
 
 ### 📧 Email
 
-atharva.ghodke@gmail.com
-
----
-
-## 🎯 Current Focus
-
-Building software that combines **automation, AI, computer vision, and user-focused design** to solve real-world problems.
+atharva.gwork1@gmail.com
