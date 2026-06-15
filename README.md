@@ -14,39 +14,11 @@ Outside of work and academics, I actively build personal projects and continuous
 
 # 💻 Technologies & Skills
 
-### **Languages**
-
-- Python
-- JavaScript
-- C++
-- Java
-- SQL
-- HTML5
-- CSS3
-
-### **Tools & Technologies**
-
-- OpenCV
-- Tesseract OCR
-- Selenium
-- BeautifulSoup
-- Git
-- GitHub
-- ChromeDriver
-- JSON
-
-### **Core Concepts**
-
-- Software Automation
-- Web Development
-- UI/UX Design
-- Responsive Design
-- Computer Vision
-- Data Processing
-- Web Scraping
-- Workflow Automation
-- Object-Oriented Programming (OOP)
-- Database Fundamentals
+| Category | Skills |
+|----------|--------|
+| **💻 Languages** | Python, JavaScript, C++ (OOP), Java, SQL, HTML5, CSS3, HTML/CSS, Ruby, .NET |
+| **🛠️ Tools & Technologies** | OpenCV, Tesseract OCR, Selenium, Node.js, Git, GitHub, ChromeDriver, JSON, TensorFlow, Tailwind CSS |
+| **🧠 Core Concepts** | Software Automation, Web Development, UI/UX Design, Responsive Design, Computer Vision, Data Processing, Web Scraping, Workflow Automation, Object-Oriented Programming (OOP), Database Fundamentals |
 
 ---
 
