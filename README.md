@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharva Ghodke
 
-## 🚀 Software Automation Engineer Co-op | Automation Systems Engineering Student | Software Developer
+## 🚀 AI Researcher at Exea Labs | Automation Engineering Student 
 
 I'm an **Automation Systems Engineering student at **McMaster University**, currently conducting research at Exea Labs as a **AI Researcher**
 
