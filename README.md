@@ -2,7 +2,7 @@
 
 ## 🚀 Software Automation Engineer Co-op | Automation Systems Engineering Student | Software Developer
 
-I'm an **Automation Systems Engineering student at **McMaster University**, currently completing my first co-op term as a **Software Automation Engineer at BOXX Insurance**, a cyber insurance startup based in Toronto.
+I'm an **Automation Systems Engineering student at **McMaster University**, currently conducting research at Exea Labs as a **AI Researcher**
 
 I enjoy building software that solves real-world problems by combining **automation, artificial intelligence, computer vision, and intuitive user experiences**. My interests lie at the intersection of **software development, AI, workflow automation, and web development**, and I especially enjoy creating tools that make information more accessible and streamline repetitive processes.
 
