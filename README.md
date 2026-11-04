@@ -6,7 +6,7 @@ I'm an Automation Systems Engineering student at **McMaster University**, curren
 
 I enjoy building software that solves real-world problems by combining **automation, artificial intelligence, computer vision, and intuitive user experiences**. My interests lie at the intersection of **software development, AI, workflow automation, and web development**, and I especially enjoy creating tools that make information more accessible and streamline repetitive processes.
 
-During my co-op, I work with **Python, Tesseract OCR, OpenCV, and JSON processing** to automate broker PDF extraction and transform unstructured insurance documents into structured, business-ready data.
+During my first co-op term at BOXX Insurance as a Software Automation Engineer I worked with **Python, Tesseract OCR, OpenCV, and JSON processing** to automate broker PDF extraction and transform unstructured insurance documents into structured, business-ready data.
 
 Outside of work and academics, I actively build personal projects and continuously explore new technologies to strengthen my technical and problem-solving skills.
 
